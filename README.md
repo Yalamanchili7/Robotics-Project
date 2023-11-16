@@ -1,7 +1,7 @@
 # Robotics-Project
-Project a: Build a self balancing bike as discussed here  https://edu-content-preview.arduino.cc/content-preview/university/project/CONTENTPREVIEW+AEKR2Links to an external site. 
+Project a: Build a self balancing bike  https://drive.google.com/drive/folders/10-d80_GrTbm9J_UEKpSA1n_Wq1KBIYUA?usp=drive_link
 
-a.1: Test external mode with WiFi
+a.1: Test external mode with WiFi 
 
 a.2: Balance with straight motion : The bike should travel in a straight line
 
